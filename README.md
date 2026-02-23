@@ -56,7 +56,7 @@ Die Daten werden in der Zentrale in einem MongoDB Repository gespeichert und kö
 
 * Execute MongoShell Commands    
   `show dbs`  
-  `use local`.  
+  `use local`   
   `db.startup_log.countDocuments();`    
 
 * Accessing Data with MongoDB and Spring  
